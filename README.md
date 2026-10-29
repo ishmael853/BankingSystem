@@ -93,8 +93,13 @@ BankingSystem/
 
 ## Author
 
-Developed as a Python desktop banking system project.
-<!-- https://github.com/ishmael853 -->
+## Author
+
+**Ishmael Mogwasi**
+
+Developer of BankingSystem — a desktop banking application built with Python, PyQt6, and SQLite.
+
+GitHub: [@ishmael853](https://github.com/ishmael853)
 
 ## License
 
