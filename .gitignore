@@ -1,0 +1,30 @@
+﻿# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Banking database, account data, and backups
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+backups/
+bank_backup_*/
+*.backup*
+*.stage3-backup
+bank_gui_before_*.py
+bank_gui_backup_*.py
+
+# Build outputs
+build/
+dist/
+release_build/
+build_release/
+spec_release/
+*.spec
+
+# Editors and operating system
+.vscode/
+.DS_Store
+Thumbs.db
